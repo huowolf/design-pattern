@@ -12,6 +12,7 @@
     <module>factory-method-pattern</module>
       <module>abstract-factory-pattern</module>
       <module>prototype-pattern</module>
+      <module>builder-pattern</module>
   </modules>
 
   <name>design-pattern</name>
